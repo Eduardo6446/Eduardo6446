@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1> Welcome 😀 <h1/>
 
-<!--
-**Eduardo6446/Eduardo6446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Fan of web programming :D
+  
+- 🔭 I’m currently working on web50 projects
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java, python, JavaScript, Angular, Sql
+ 
+- 📫 How to reach me: eduorozco8@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo6446&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo6446&theme=discord_old_blurple&hide=Cl"/>
+
+</div>
